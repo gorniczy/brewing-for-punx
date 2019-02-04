@@ -1,0 +1,13 @@
+.button-primary {
+  display: block;
+  background: #CC3E50;
+  border-radius: 5px;
+  width: 150px;
+  height: 40px;
+  margin: 5% auto;
+  font-family: Lato;
+  font-size: 18px;
+  color: #FFFFFF;
+  text-align: center;
+  cursor: pointer;
+}

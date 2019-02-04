@@ -1,0 +1,18 @@
+.form-capture-age {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.request-age {
+  font-size: 18px;
+}
+
+.input-age {
+  width: 20%;
+  font-size: 18px;
+  text-align: center;
+  background: #D8D8D8;
+  border: 2px solid red;
+}
