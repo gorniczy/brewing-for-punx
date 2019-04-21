@@ -1,0 +1,15 @@
+{
+  "main.css": "/brewing-for-punx/static/css/main.c2e69067.chunk.css",
+  "main.js": "/brewing-for-punx/static/js/main.3ecf5a15.chunk.js",
+  "main.js.map": "/brewing-for-punx/static/js/main.3ecf5a15.chunk.js.map",
+  "runtime~main.js": "/brewing-for-punx/static/js/runtime~main.f66320ed.js",
+  "runtime~main.js.map": "/brewing-for-punx/static/js/runtime~main.f66320ed.js.map",
+  "static/js/2.075e8d41.chunk.js": "/brewing-for-punx/static/js/2.075e8d41.chunk.js",
+  "static/js/2.075e8d41.chunk.js.map": "/brewing-for-punx/static/js/2.075e8d41.chunk.js.map",
+  "index.html": "/brewing-for-punx/index.html",
+  "precache-manifest.17b00c3684ad851180063d00c2cd1b6f.js": "/brewing-for-punx/precache-manifest.17b00c3684ad851180063d00c2cd1b6f.js",
+  "service-worker.js": "/brewing-for-punx/service-worker.js",
+  "static/css/main.c2e69067.chunk.css.map": "/brewing-for-punx/static/css/main.c2e69067.chunk.css.map",
+  "static/media/exit.svg": "/brewing-for-punx/static/media/exit.2cff134c.svg",
+  "static/media/logo.png": "/brewing-for-punx/static/media/logo.9505d405.png"
+}

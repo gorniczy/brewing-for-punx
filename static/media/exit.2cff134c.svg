@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>button/exit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Copy-5" transform="translate(-299.000000, -18.000000)">
+            <g id="button/exit" transform="translate(299.000000, 18.000000)">
+                <g id="Exit-button">
+                    <circle id="Oval" fill="#253035" cx="20" cy="20" r="20"></circle>
+                    <path d="M11.4814815,12.962963 L28.5185185,27.7777778" id="Line-2" stroke="#EDEDED" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M11.4814815,12.962963 L28.5185185,27.7777778" id="Line-2-Copy" stroke="#EDEDED" stroke-width="2" stroke-linecap="round" transform="translate(20.000000, 20.370370) scale(-1, 1) translate(-20.000000, -20.370370) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
