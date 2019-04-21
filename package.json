@@ -1,11 +1,10 @@
 {
-  "name": "bear-test",
+  "name": "brewing-for-punx",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gorniczy.github.io/brewing-for-punx
-",
+  "homepage": "https://gorniczy.github.io/brewing-for-punx",
   "dependencies": {
-    "react": "^16.7.0",
+    "react": "^16.8.6",
     "react-dom": "^16.7.0",
     "react-redux": "^6.0.0",
     "react-scripts": "2.1.3",
